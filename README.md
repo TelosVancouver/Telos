@@ -1,6 +1,6 @@
 # Telos Testnet Scripts
 
-Based on tag: Stage2.1
+Collection of scripts and utilities for Telos Block Producers.
 
 Please join the Telos testnet: http://testnet.telosfoundation.io/registration
 
